@@ -11,4 +11,5 @@ This repo pulls that code out type out of its `internal` directory and
 removes its dependencies on other `internal` packages so you can use
 it in your own code, instead of `sync.Map`.
 
-
+See https://github.com/golang/go/issues/71076 for progress on putting
+this in the standard library.
