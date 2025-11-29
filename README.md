@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/go4org/hashtriemap.svg)](https://pkg.go.dev/github.com/go4org/hashtriemap)
+
 # hashtriemap
 
 Go's [`sync.Map`](https://pkg.go.dev/sync#Map) is not generic (and thus exposes `any` API all over), but is implemented in terms of a
